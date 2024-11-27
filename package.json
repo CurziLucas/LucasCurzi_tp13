@@ -1,0 +1,19 @@
+{
+  "name": "ciclos",
+  "version": "1.0.0",
+  "description": "Este es un tp de u\b\b\u001b[1;5C\u001b para calcular el balance de una cuenta bancaria",
+  "main": "bankBalance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "javascript"
+  ],
+  "author": "undefined <lucasantoniocurzi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
